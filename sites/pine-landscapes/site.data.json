@@ -44,7 +44,7 @@
     "roundnessPresetId": "round",
     "iconStyle": "triangle",
     "buttonRoundness": 10,
-    "typographyScale": "new",
+    "typographyScale": "old",
     "typographySizes": {
       "h1": 52,
       "h2": 36,
