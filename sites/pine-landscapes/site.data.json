@@ -86,7 +86,8 @@
     "testimonialsCardBg": "white",
     "featuredProjectsBg": "primary",
     "heroOverlayColor": "black",
-    "buttonHoverAnimation": "grow"
+    "buttonHoverAnimation": "grow",
+    "headerWidth": "contained"
   },
   "nav": [
     {
@@ -107,7 +108,7 @@
     },
     {
       "label": "Contact",
-      "href": "/#contact"
+      "href": "/contact"
     }
   ],
   "footerQuickLinks": [
@@ -118,6 +119,10 @@
     {
       "label": "Services",
       "href": "/#services"
+    },
+    {
+      "label": "Contact",
+      "href": "/contact"
     },
     {
       "label": "Our Work",
@@ -277,7 +282,7 @@
       "hero": {
         "heading": "Landscapers in Hitchin, BedfordshireS",
         "headingWidth": 810,
-        "contactCta": "Contact Us",
+        "contactCta": "Request Call",
         "ctaBarText": "If it's outside, we're in",
         "overlayOpacity": 0.7,
         "formHeading": "Get Your Free Quote Today",
@@ -303,7 +308,8 @@
           ]
         },
         "splitGutter": 104,
-        "heroHeight": 540
+        "heroHeight": 540,
+        "splitRatio": 59
       },
       "services": {
         "badgeText": "What We Do",
@@ -484,6 +490,17 @@
         "cta": "Get a Quote"
       },
       "badgesCta": "View More"
+    },
+    "contact": {
+      "badgeText": "Get In Touch",
+      "heading": "Let's Talk About Your Project",
+      "body": "Have a question or ready to get started? Reach out and we'll get back to you within one business day — or use the form below to send us the details.",
+      "formHeading": "Send Us a Message"
+    },
+    "schedule": {
+      "badgeText": "Book a Call",
+      "heading": "Schedule a Free Consultation",
+      "body": "Pick a time that works for you and we'll call to talk through your project — no obligation, no pressure."
     }
   }
 }
