@@ -1,0 +1,294 @@
+{
+  "business": {
+    "tagline": "Family-Owned Landscaping & Garden Design Company",
+    "phone": "(555) 000-0000",
+    "email": "info@example.com",
+    "address": "123 Main Street, Suite 100<br>Your City, ST 00000",
+    "addressShort": "123 Main Street, Your City, ST",
+    "hours": "Mon–Fri: 8AM–5PM<br>Sat–Sun: By Appointment",
+    "promoBanner": "GET A QUOTE: $1,000 OFF PATIOS/DECKING | $500 OFF DRIVEWAY RESURFACING",
+    "quoteCtaLabel": "Get A Quote",
+    "socials": {
+      "facebook": "#",
+      "instagram": "#"
+    },
+    "name": "",
+    "nameAccent": "",
+    "legalName": "",
+    "mapQuery": ""
+  },
+  "theme": {
+    "colorPresetId": "navy-amber",
+    "colors": {
+      "primary": "#0e2036",
+      "accent": "#d73337",
+      "background": "#f6f6f4"
+    },
+    "fontPresetId": "oswald-inter",
+    "fonts": {
+      "heading": "'Oswald', sans-serif",
+      "body": "'Inter', sans-serif",
+      "googleFontsHref": "https://fonts.googleapis.com/css2?family=Oswald:wght@500;600;700&family=Inter:wght@400;500;600&display=swap",
+      "headingCase": "uppercase"
+    },
+    "roundness": 8,
+    "buttonRoundness": 10,
+    "roundnessPresetId": 40,
+    "design": {
+      "h1Size": 52,
+      "h2Size": 32,
+      "h3Size": 20,
+      "bodySize": 15,
+      "navSize": 14,
+      "buttonRadius": 2,
+      "textCase": "uppercase"
+    }
+  },
+  "heroVariant": "default",
+  "swaps": {
+    "headerBackground": "white",
+    "subHeroStyle": "card",
+    "offerBar": "show",
+    "heroBarStyle": "cta"
+  },
+  "nav": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Services",
+      "href": "/#services"
+    },
+    {
+      "label": "Projects",
+      "href": "/photos"
+    },
+    {
+      "label": "About Us",
+      "href": "/about"
+    },
+    {
+      "label": "Contact",
+      "href": "/#contact"
+    }
+  ],
+  "footerQuickLinks": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Services",
+      "href": "/#services"
+    },
+    {
+      "label": "Our Work",
+      "href": "/photos"
+    },
+    {
+      "label": "About Us",
+      "href": "/about"
+    }
+  ],
+  "homeServices": [
+    [
+      {
+        "id": "svc-patios",
+        "label": "Patios & Paving"
+      },
+      {
+        "id": "svc-decking",
+        "label": "Decking"
+      },
+      {
+        "id": "svc-garden-design",
+        "label": "Garden Design"
+      },
+      {
+        "id": "svc-fencing",
+        "label": "Fencing"
+      }
+    ],
+    [
+      {
+        "id": "svc-driveways",
+        "label": "Driveways"
+      },
+      {
+        "id": "svc-turf",
+        "label": "Turf & Lawns"
+      },
+      {
+        "id": "svc-lighting",
+        "label": "Lighting & Water Features"
+      }
+    ]
+  ],
+  "images": {},
+  "content": {
+    "home": {
+      "hero": {
+        "heading": "Trusted Landscapes in Romford, Essex",
+        "headingWidth": 640,
+        "contactCta": "Contact Us",
+        "ctaBarText": "If it's outside, we're in",
+        "overlayOpacity": 0.4,
+        "formHeading": "Get A Free Quote",
+        "badgeText": "Landscape Design",
+        "trustBar": {
+          "items": [
+            {
+              "text": "25+ Years Experience"
+            },
+            {
+              "text": "Fully Insured"
+            },
+            {
+              "text": "Free, No-Obligation Quotes"
+            },
+            {
+              "text": "Family-Run Business"
+            }
+          ]
+        }
+      },
+      "intro": {
+        "heading": "Built for Every Yard",
+        "body": "From small courtyards to full-property renovations, our team designs and builds landscapes that fit how you actually use your outdoor space. We handle everything from initial concept to final planting.",
+        "cta": "Get Started"
+      },
+      "aboutBlurb": {
+        "badgeText": "Why Choose Us",
+        "heading": "We're here to transform your outdoor space",
+        "body": "From patios to planting to driveways and beyond, our team handles all things landscaping. With over 25 years of experience and a strong work ethic, you can trust us with your project, big or small."
+      },
+      "whyChooseUs": {
+        "badgeText": "Why Choose Us",
+        "heading": "Landscaping Done Right, Always.",
+        "body": "We're not just another crew with shovels. Every project gets a dedicated designer, a clear timeline, and a team that treats your garden like their own.",
+        "items": [
+          {
+            "title": "25+ Years Of Experience",
+            "body": "Nearly three decades of hands-on landscaping across every kind of property, from small courtyards to full estate grounds."
+          },
+          {
+            "title": "Fully Insured & Guaranteed",
+            "body": "Every project is backed by comprehensive insurance and a workmanship warranty, so you're covered long after we've packed up."
+          },
+          {
+            "title": "Transparent, Upfront Pricing",
+            "body": "A clear, itemised quote before any work begins — no hidden fees or surprise costs once the job is under way."
+          },
+          {
+            "title": "Licensed Local Team",
+            "body": "No subcontractors passed between jobs — the same licensed, background-checked crew shows up from quote to completion."
+          },
+          {
+            "title": "A Team That Listens",
+            "body": "Real conversations about your space and your budget, not a sales script — we design around what actually works for you."
+          },
+          {
+            "title": "Built Around Your Property",
+            "body": "We design for how you actually use your outdoor space, not a one-size-fits-all template pulled off the shelf."
+          }
+        ]
+      },
+      "ourStory": {
+        "badgeText": "Our Story",
+        "heading": "Built By People Who Love The Work",
+        "body": "What started as a one-truck operation has grown into a full-service landscaping team — but the goal hasn't changed: show up on time, do the work right, and leave every garden better than we found it.",
+        "cta": "Learn More"
+      },
+      "stats": {
+        "heading": "Over 25 Years",
+        "subheading": "OF HOME IMPROVEMENT EXCELLENCE",
+        "missionBadgeText": "Our Mission",
+        "missionHeading": "Our Mission",
+        "missionBody": "We're passionate about helping your garden reach its full potential. With attention to detail, we deliver the highest quality results — and expert virtual renderings to help you love the look of your outdoor space.",
+        "missionCta": "Learn More"
+      },
+      "testimonials": {
+        "embedCode": ""
+      },
+      "featuredProjectsCta": "View More",
+      "badgesCta": "View More",
+      "services": {
+        "badgeText": "What We Do",
+        "heading": "We Transform Your Outdoor Space"
+      },
+      "areasWeCover": {
+        "badgeText": "Where We Work",
+        "heading": "Areas We Cover",
+        "body": "Based in Romford, we take on projects across Essex and the surrounding towns within about a 20-mile radius. Not sure if you're in range? Get in touch with your postcode and we'll confirm we can help before you book anything in.",
+        "towns": [
+          "Romford",
+          "Brentwood",
+          "Chelmsford",
+          "Basildon",
+          "Ilford",
+          "Upminster",
+          "Hornchurch",
+          "Grays"
+        ]
+      },
+      "faq": {
+        "heading": "Frequently Asked Questions",
+        "subheading": "Got a question about working with us? Here are the ones we hear most.",
+        "items": [
+          {
+            "q": "What areas do you cover?",
+            "a": "We work throughout Romford and the surrounding Essex area. Get in touch with your postcode and we'll confirm we can help."
+          },
+          {
+            "q": "How much will my project cost?",
+            "a": "Every garden is different, so we price after a free on-site consultation rather than guessing over the phone. Request a quote and we'll get back to you with a clear, no-obligation estimate."
+          },
+          {
+            "q": "How long does a typical project take?",
+            "a": "Smaller jobs like fencing or turf can wrap up in a few days, while larger patio or full-garden transformations usually run one to three weeks. We'll give you a firm timeline before work starts."
+          },
+          {
+            "q": "Are you insured and guaranteed?",
+            "a": "Yes — we're fully insured, and every project is backed by a workmanship warranty so you're covered long after we've finished."
+          },
+          {
+            "q": "Do I need to be home during the work?",
+            "a": "No, as long as we have access to the outdoor space. Many of our clients are at work during the day — we'll keep you updated with photos as the project progresses."
+          },
+          {
+            "q": "Do you offer any warranty on your work?",
+            "a": "Yes — every project is backed by a workmanship warranty, and we'll always come back to put things right if something isn't up to standard."
+          },
+          {
+            "q": "Can you help with garden design as well as the build?",
+            "a": "Absolutely. Many clients come to us with just an idea of what they want — we'll help design the space, then carry out the full build ourselves."
+          },
+          {
+            "q": "What forms of payment do you accept?",
+            "a": "We accept bank transfer and all major debit and credit cards. For larger projects, we can also agree a staged payment schedule tied to project milestones."
+          }
+        ]
+      },
+      "contactCta": {
+        "badgeText": "Get In Touch",
+        "heading": "Ready to Transform Your Outdoor Space?",
+        "body": "Request a free, no-obligation quote and we'll get back to you with a clear estimate — no pressure, no guesswork."
+      }
+    },
+    "about": {
+      "mission": {
+        "badgeText": "Our Mission",
+        "heading": "Our Mission",
+        "body": "<p>As a design-oriented business, we're passionate about making your outdoor space reach its full potential. With a strong work ethic and attention to detail, we deliver the highest quality results.</p><p>We proudly offer services in all things landscaping, from patios and paving to full garden design and more. Our expert team is committed to using the best materials and designs to deliver the best results possible. We're also capable of creating virtual renderings.</p><p>We're here to deliver the outdoor space of your dreams!</p>"
+      },
+      "reasons": {
+        "badgeText": "Why Choose Us",
+        "heading": "Reasons to Choose Us",
+        "body": "There's lots to love when it comes to working with us, even beyond our beautiful work. Find out what makes us stand out from the crowd!",
+        "cta": "Get a Quote"
+      },
+      "badgesCta": "View More"
+    }
+  }
+}
