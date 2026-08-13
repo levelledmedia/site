@@ -69,7 +69,7 @@
     "iconColor": "white",
     "topBar": "default",
     "testimonialsWidth": "full",
-    "serviceCardsHeight": "default",
+    "serviceCardsHeight": "medium",
     "eyebrowDivider": "show",
     "whyChooseUsCardStyle": "compact",
     "offwhiteTintStyle": "hue",
@@ -180,12 +180,6 @@
       "y": 50,
       "scale": 1
     },
-    "svc-fencing": {
-      "src": "/images/svc-fencing.jpg?v=1785426818270",
-      "x": 16.8305,
-      "y": 63.4635,
-      "scale": 1.45
-    },
     "stats-bg": {
       "src": "/images/stats-bg.jpg?v=1786263920168",
       "x": 50,
@@ -196,24 +190,6 @@
       "src": "/images/mission-house.jpg?v=1786264009410",
       "x": 50.5228,
       "y": 11.0981,
-      "scale": 1
-    },
-    "proj-1": {
-      "src": "/images/proj-1.jpg?v=1786272300980",
-      "x": 50,
-      "y": 50,
-      "scale": 1
-    },
-    "proj-3": {
-      "src": "/images/proj-3.jpg?v=1786272386983",
-      "x": 50,
-      "y": 50,
-      "scale": 1
-    },
-    "proj-2": {
-      "src": "/images/proj-2.jpg?v=1786272555382",
-      "x": 57.3829,
-      "y": 47.2721,
       "scale": 1
     },
     "logo": {
@@ -240,38 +216,62 @@
       "y": 50,
       "scale": 1
     },
-    "svc-turf": {
-      "src": "/images/svc-turf.jpg?v=1786362957117",
-      "x": 50,
-      "y": 50,
-      "scale": 1
-    },
     "svc-patios": {
-      "src": "/images/svc-patios.jpg?v=1786525480769",
-      "x": 50,
-      "y": 50,
-      "scale": 1
+      "src": "/images/svc-patios.jpg?v=1786629767658",
+      "x": 50.0013,
+      "y": 52.0173,
+      "scale": 1.2
     },
-    "svc-mslifeu6": {
-      "src": "/images/svc-mslifeu6.jpg?v=1786525485582",
-      "x": 50,
-      "y": 50,
-      "scale": 1
-    },
-    "svc-driveways": {
-      "src": "/images/svc-driveways.jpg?v=1786525488850",
+    "svc-msoqs2p8": {
+      "src": "/images/svc-msoqs2p8.jpg?v=1786631111328",
       "x": 50,
       "y": 50,
       "scale": 1
     },
     "svc-msmsvk83": {
-      "src": "/images/svc-msmsvk83.jpg?v=1786525492832",
+      "src": "/images/svc-msmsvk83.jpg?v=1786631116409",
+      "x": 73.3993,
+      "y": 35.7422,
+      "scale": 1.3
+    },
+    "svc-turf": {
+      "src": "/images/svc-turf.jpg?v=1786631144032",
       "x": 50,
       "y": 50,
       "scale": 1
     },
-    "svc-msoqs2p8": {
-      "src": "/images/svc-msoqs2p8.jpg?v=1786525497253",
+    "svc-fencing": {
+      "src": "/images/svc-fencing.jpg?v=1786631295495",
+      "x": 50,
+      "y": 50,
+      "scale": 1.3
+    },
+    "svc-driveways": {
+      "src": "/images/svc-driveways.jpg?v=1786631382293",
+      "x": 50,
+      "y": 50,
+      "scale": 1
+    },
+    "svc-mslifeu6": {
+      "src": "/images/svc-mslifeu6.jpg?v=1786631558401",
+      "x": 51.3702,
+      "y": 81.2757,
+      "scale": 1.1
+    },
+    "proj-1": {
+      "src": "/images/proj-1.jpg?v=1786632228051",
+      "x": 43.9288,
+      "y": 78.3699,
+      "scale": 1.2
+    },
+    "proj-2": {
+      "src": "/images/proj-2.jpg?v=1786632397274",
+      "x": 50,
+      "y": 50,
+      "scale": 1
+    },
+    "proj-3": {
+      "src": "/images/proj-3.jpg?v=1786632408647",
       "x": 50,
       "y": 50,
       "scale": 1
@@ -280,7 +280,7 @@
   "content": {
     "home": {
       "hero": {
-        "heading": "Landscapers in Hitchin, BedfordshireS",
+        "heading": "Landscapers in Hitchin, Bedfordshire",
         "headingWidth": 810,
         "contactCta": "Request Call",
         "ctaBarText": "If it's outside, we're in",
@@ -290,7 +290,7 @@
         "trustBar": {
           "items": [
             {
-              "text": "25+ Years Experience",
+              "text": "30+ Years Experience",
               "caption": "Proven track record"
             },
             {
@@ -307,9 +307,9 @@
             }
           ]
         },
-        "splitGutter": 104,
+        "splitGutter": 148,
         "heroHeight": 540,
-        "splitRatio": 59
+        "splitRatio": 56
       },
       "services": {
         "badgeText": "What We Do",
