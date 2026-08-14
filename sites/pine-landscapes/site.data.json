@@ -81,13 +81,14 @@
     "faqWidth": "narrow",
     "heroBarVisible": "show",
     "whyChooseUsAlign": "center",
-    "whyChooseUsCount": "6",
+    "whyChooseUsCount": "3",
     "previewLocked": "unlocked",
     "testimonialsCardBg": "white",
     "featuredProjectsBg": "primary",
     "heroOverlayColor": "black",
     "buttonHoverAnimation": "grow",
-    "headerWidth": "contained"
+    "headerWidth": "contained",
+    "buttonGradient": "off"
   },
   "nav": [
     {
@@ -375,7 +376,7 @@
           }
         ],
         "missionHeading": "Pine Landscapes",
-        "missionBody": "We're passionate about helping your garden reach its full potential. With attention to detail, we deliver the highest quality results — and expert virtual renderings to help you love the look of yours.<br><br>We're passionate about helping your garden reach its full potential. With attention to detail, we deliver the highest quality results — and expert virtual renderings to help you love the look of yours.<br><br>We're passionate about helping your garden reach its full potential. With attention to detail, we deliver the highest quality results.",
+        "missionBody": "We're passionate about helping your garden reach its full potential. With attention to detail, we deliver the highest quality results — and expert virtual renderings to help you love the look of yours.<br><br>We're passionate about helping your garden reach its full potential. With attention to detail, we deliver the highest quality results — and expert virtual renderings to help you love the look of yours.<br><br>We're passionate about helping your garden reach its full potential. With attention to detail, we deliver the highest quality results and such.",
         "missionCta": "Learn More",
         "overlayOpacity": 0.7
       },
@@ -412,8 +413,8 @@
         ]
       },
       "testimonials": {
-        "badgeText": "Reviews",
-        "heading": "What Our Hitchin Clients Say",
+        "badgeText": "Testimonials",
+        "heading": "Recent Customer Reviews",
         "embedCode": "<script type='text/javascript' src='https://reputationhub.site/reputation/assets/review-widget.js'></script><iframe class='lc_reviews_widget' src='https://reputationhub.site/reputation/widgets/review_widget/y5wNfgcesjGbFN8bACsl?widgetId=6a782104927684028952a41f' frameborder='0' scrolling='no' style='min-width: 100%; width: 100%;'></iframe>"
       },
       "featuredProjectsCta": "View More",
