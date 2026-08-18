@@ -2,7 +2,7 @@
   "business": {
     "tagline": "Family-owned landscaping company in Hitchin. Specialising in garden transformation and landscape design since 1996. Call today for a free, no-obligation quotation.",
     "phone": "07891-172-482",
-    "email": "info@example.com",
+    "email": "mark@pinelandscapes.co.uk",
     "address": "123 Main Street, Suite 100<br>Your City, ST 00000",
     "addressShort": "Maquis Hill, Shillington, Hitchin, ABC 123",
     "hours": "Mon–Fri: 8AM–5PM<br>Sat–Sun: By Appointment",
@@ -69,7 +69,7 @@
     "iconColor": "white",
     "topBar": "default",
     "testimonialsWidth": "full",
-    "serviceCardsHeight": "medium",
+    "serviceCardsHeight": "default",
     "eyebrowDivider": "show",
     "whyChooseUsCardStyle": "compact",
     "offwhiteTintStyle": "hue",
@@ -88,7 +88,9 @@
     "heroOverlayColor": "black",
     "buttonHoverAnimation": "grow",
     "headerWidth": "contained",
-    "buttonGradient": "off"
+    "buttonGradient": "off",
+    "heroBadgeTone": "white",
+    "breadcrumbTone": "white"
   },
   "nav": [
     {
@@ -279,6 +281,9 @@
     }
   },
   "content": {
+    "quoteForm": {
+      "embedCode": "<iframe\n    src=\"https://api.leadconnectorhq.com/widget/form/ASYFn1VqvAewRwLdtKoe\"\n    style=\"width:100%;height:100%;border:none;border-radius:8px\"\n    id=\"inline-ASYFn1VqvAewRwLdtKoe\" \n    data-layout=\"{'id':'INLINE'}\"\n    data-trigger-type=\"alwaysShow\"\n    data-trigger-value=\"\"\n    data-activation-type=\"alwaysActivated\"\n    data-activation-value=\"\"\n    data-deactivation-type=\"neverDeactivate\"\n    data-deactivation-value=\"\"\n    data-form-name=\"Form\"\n    data-height=\"537\"\n    data-layout-iframe-id=\"inline-ASYFn1VqvAewRwLdtKoe\"\n    data-form-id=\"ASYFn1VqvAewRwLdtKoe\"\n    title=\"Form\"\n    \n        >\n</iframe>\n<script src=\"https://link.msgsndr.com/js/form_embed.js\"></script>"
+    },
     "home": {
       "hero": {
         "heading": "Landscapers in Hitchin, Bedfordshire",
@@ -310,7 +315,7 @@
         },
         "splitGutter": 148,
         "heroHeight": 540,
-        "splitRatio": 56
+        "splitRatio": 59
       },
       "services": {
         "badgeText": "What We Do",
