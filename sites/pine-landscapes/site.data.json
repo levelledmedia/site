@@ -82,7 +82,7 @@
     "heroBarVisible": "show",
     "whyChooseUsAlign": "center",
     "whyChooseUsCount": "3",
-    "previewLocked": "unlocked",
+    "previewLocked": "locked",
     "testimonialsCardBg": "white",
     "featuredProjectsBg": "primary",
     "heroOverlayColor": "black",
@@ -90,48 +90,59 @@
     "headerWidth": "contained",
     "buttonGradient": "off",
     "heroBadgeTone": "white",
-    "breadcrumbTone": "white"
+    "breadcrumbTone": "white",
+    "selectedCredentialLogos": "checkatrade.png,mybuilder.png,google-maps.png,nub-news.png,yelp.logo.png,insured.png"
   },
   "nav": [
     {
+      "key": "home",
       "label": "Home",
       "href": "/"
     },
     {
+      "key": "services",
       "label": "Services",
       "href": "/#services"
     },
     {
-      "label": "Projects",
-      "href": "/photos"
+      "key": "projects",
+      "label": "Our Work",
+      "href": "/our-work"
     },
     {
+      "key": "about",
       "label": "About Us",
       "href": "/about"
     },
     {
+      "key": "contact",
       "label": "Contact",
       "href": "/contact"
     }
   ],
   "footerQuickLinks": [
     {
+      "navKey": "home",
       "label": "Home",
       "href": "/"
     },
     {
+      "navKey": "services",
       "label": "Services",
       "href": "/#services"
     },
     {
+      "navKey": "contact",
       "label": "Contact",
       "href": "/contact"
     },
     {
+      "navKey": "projects",
       "label": "Our Work",
       "href": "/photos"
     },
     {
+      "navKey": "about",
       "label": "About Us",
       "href": "/about"
     }
@@ -313,9 +324,9 @@
             }
           ]
         },
-        "splitGutter": 148,
+        "splitGutter": 112,
         "heroHeight": 540,
-        "splitRatio": 59
+        "splitRatio": 57
       },
       "services": {
         "badgeText": "What We Do",
@@ -483,7 +494,8 @@
         "badgeText": "FOOTER CTA",
         "heading": "Ready to Transform Your Outdoor Space?",
         "body": "Request a free, no-obligation quote and we'll get back to you with a clear estimate — no pressure, no guesswork."
-      }
+      },
+      "credentialLogoSize": 132
     },
     "about": {
       "mission": {
