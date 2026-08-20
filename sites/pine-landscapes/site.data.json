@@ -82,7 +82,7 @@
     "heroBarVisible": "show",
     "whyChooseUsAlign": "center",
     "whyChooseUsCount": "3",
-    "previewLocked": "unlocked",
+    "previewLocked": "locked",
     "testimonialsCardBg": "white",
     "featuredProjectsBg": "primary",
     "heroOverlayColor": "black",
@@ -353,7 +353,7 @@
         "contactCta": "Request Call",
         "ctaBarText": "If it's outside, we're in",
         "overlayOpacity": 0.7,
-        "formHeading": "Get Your Free Quote Today",
+        "formHeading": "Get Your Free Quote",
         "badgeText": "Pine Landscapes",
         "trustBar": {
           "items": [
