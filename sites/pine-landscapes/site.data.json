@@ -69,7 +69,7 @@
     "iconColor": "white",
     "topBar": "default",
     "testimonialsWidth": "full",
-    "serviceCardsHeight": "default",
+    "serviceCardsHeight": "medium",
     "eyebrowDivider": "show",
     "whyChooseUsCardStyle": "compact",
     "offwhiteTintStyle": "hue",
@@ -82,7 +82,7 @@
     "heroBarVisible": "show",
     "whyChooseUsAlign": "center",
     "whyChooseUsCount": "3",
-    "previewLocked": "locked",
+    "previewLocked": "unlocked",
     "testimonialsCardBg": "white",
     "featuredProjectsBg": "primary",
     "heroOverlayColor": "black",
@@ -182,12 +182,6 @@
     ]
   ],
   "images": {
-    "hero": {
-      "src": "/images/hero.jpg?v=1785413671204",
-      "x": 50,
-      "y": 50,
-      "scale": 1
-    },
     "about-house": {
       "src": "/images/about-house.jpg?v=1785413966621",
       "x": 50,
@@ -289,6 +283,40 @@
       "x": 50,
       "y": 50,
       "scale": 1
+    },
+    "hero": {
+      "src": "/images/hero.jpg?v=1787214072734",
+      "x": 50,
+      "y": 50,
+      "scale": 1
+    },
+    "about-hero": {
+      "src": "/images/hero.jpg?v=1787214072734",
+      "x": 50,
+      "y": 50,
+      "scale": 1,
+      "inherited": true
+    },
+    "photos-hero": {
+      "src": "/images/hero.jpg?v=1787214072734",
+      "x": 50,
+      "y": 50,
+      "scale": 1,
+      "inherited": true
+    },
+    "contact-hero": {
+      "src": "/images/hero.jpg?v=1787214072734",
+      "x": 50,
+      "y": 50,
+      "scale": 1,
+      "inherited": true
+    },
+    "schedule-hero": {
+      "src": "/images/hero.jpg?v=1787214072734",
+      "x": 50,
+      "y": 50,
+      "scale": 1,
+      "inherited": true
     }
   },
   "gallery": [],
@@ -496,7 +524,7 @@
         "heading": "Ready to Transform Your Outdoor Space?",
         "body": "Request a free, no-obligation quote and we'll get back to you with a clear estimate — no pressure, no guesswork."
       },
-      "credentialLogoSize": 132
+      "credentialLogoSize": 136
     },
     "about": {
       "mission": {
