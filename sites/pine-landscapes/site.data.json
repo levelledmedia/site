@@ -61,7 +61,7 @@
     "offerBar": "hide",
     "heroBarStyle": "trust",
     "headerHeight": "tall",
-    "testimonialsStyle": "embed",
+    "testimonialsStyle": "cards",
     "headerBackground": "white",
     "faqStyle": "accordion",
     "siteWidth": "default",
@@ -69,7 +69,7 @@
     "iconColor": "white",
     "topBar": "default",
     "testimonialsWidth": "full",
-    "serviceCardsHeight": "medium",
+    "serviceCardsHeight": "default",
     "eyebrowDivider": "show",
     "whyChooseUsCardStyle": "compact",
     "offwhiteTintStyle": "hue",
@@ -106,8 +106,8 @@
     },
     {
       "key": "projects",
-      "label": "Our Work",
-      "href": "/our-work"
+      "label": "Gallery",
+      "href": "/gallery"
     },
     {
       "key": "about",
@@ -284,42 +284,64 @@
       "y": 50,
       "scale": 1
     },
-    "hero": {
-      "src": "/images/hero.jpg?v=1787214072734",
-      "x": 50,
-      "y": 50,
-      "scale": 1
-    },
     "about-hero": {
-      "src": "/images/hero.jpg?v=1787214072734",
+      "src": "/images/hero.jpg?v=1787220347424",
       "x": 50,
       "y": 50,
       "scale": 1,
       "inherited": true
     },
     "photos-hero": {
-      "src": "/images/hero.jpg?v=1787214072734",
+      "src": "/images/hero.jpg?v=1787220347424",
       "x": 50,
       "y": 50,
       "scale": 1,
       "inherited": true
     },
     "contact-hero": {
-      "src": "/images/hero.jpg?v=1787214072734",
+      "src": "/images/hero.jpg?v=1787220347424",
       "x": 50,
       "y": 50,
       "scale": 1,
       "inherited": true
     },
     "schedule-hero": {
-      "src": "/images/hero.jpg?v=1787214072734",
+      "src": "/images/hero.jpg?v=1787220347424",
       "x": 50,
       "y": 50,
       "scale": 1,
       "inherited": true
+    },
+    "gallery-mt199k71-wxtmw": {
+      "src": "/images/gallery-mt199k71-wxtmw.jpg?v=1787214326654"
+    },
+    "gallery-mt199k7j-ykc7n": {
+      "src": "/images/gallery-mt199k7j-ykc7n.jpg?v=1787214326672"
+    },
+    "gallery-mt199k7t-f4ebu": {
+      "src": "/images/gallery-mt199k7t-f4ebu.jpg?v=1787214326681"
+    },
+    "hero": {
+      "src": "/images/hero.jpg?v=1787220347424",
+      "x": 50,
+      "y": 50,
+      "scale": 1
     }
   },
-  "gallery": [],
+  "gallery": [
+    {
+      "id": "gallery-mt199k71-wxtmw",
+      "tag": null
+    },
+    {
+      "id": "gallery-mt199k7j-ykc7n",
+      "tag": null
+    },
+    {
+      "id": "gallery-mt199k7t-f4ebu",
+      "tag": null
+    }
+  ],
   "content": {
     "quoteForm": {
       "embedCode": "<iframe\n    src=\"https://api.leadconnectorhq.com/widget/form/ASYFn1VqvAewRwLdtKoe\"\n    style=\"width:100%;height:100%;border:none;border-radius:8px\"\n    id=\"inline-ASYFn1VqvAewRwLdtKoe\" \n    data-layout=\"{'id':'INLINE'}\"\n    data-trigger-type=\"alwaysShow\"\n    data-trigger-value=\"\"\n    data-activation-type=\"alwaysActivated\"\n    data-activation-value=\"\"\n    data-deactivation-type=\"neverDeactivate\"\n    data-deactivation-value=\"\"\n    data-form-name=\"Form\"\n    data-height=\"537\"\n    data-layout-iframe-id=\"inline-ASYFn1VqvAewRwLdtKoe\"\n    data-form-id=\"ASYFn1VqvAewRwLdtKoe\"\n    title=\"Form\"\n    \n        >\n</iframe>\n<script src=\"https://link.msgsndr.com/js/form_embed.js\"></script>"
@@ -520,7 +542,7 @@
         ]
       },
       "contactCta": {
-        "badgeText": "FOOTER CTA",
+        "badgeText": "Get in touch",
         "heading": "Ready to Transform Your Outdoor Space?",
         "body": "Request a free, no-obligation quote and we'll get back to you with a clear estimate — no pressure, no guesswork."
       },
