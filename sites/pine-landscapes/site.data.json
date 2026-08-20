@@ -61,7 +61,7 @@
     "offerBar": "hide",
     "heroBarStyle": "trust",
     "headerHeight": "tall",
-    "testimonialsStyle": "cards",
+    "testimonialsStyle": "embed",
     "headerBackground": "white",
     "faqStyle": "accordion",
     "siteWidth": "default",
@@ -291,6 +291,7 @@
       "scale": 1
     }
   },
+  "gallery": [],
   "content": {
     "quoteForm": {
       "embedCode": "<iframe\n    src=\"https://api.leadconnectorhq.com/widget/form/ASYFn1VqvAewRwLdtKoe\"\n    style=\"width:100%;height:100%;border:none;border-radius:8px\"\n    id=\"inline-ASYFn1VqvAewRwLdtKoe\" \n    data-layout=\"{'id':'INLINE'}\"\n    data-trigger-type=\"alwaysShow\"\n    data-trigger-value=\"\"\n    data-activation-type=\"alwaysActivated\"\n    data-activation-value=\"\"\n    data-deactivation-type=\"neverDeactivate\"\n    data-deactivation-value=\"\"\n    data-form-name=\"Form\"\n    data-height=\"537\"\n    data-layout-iframe-id=\"inline-ASYFn1VqvAewRwLdtKoe\"\n    data-form-id=\"ASYFn1VqvAewRwLdtKoe\"\n    title=\"Form\"\n    \n        >\n</iframe>\n<script src=\"https://link.msgsndr.com/js/form_embed.js\"></script>"
